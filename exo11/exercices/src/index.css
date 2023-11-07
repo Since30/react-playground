@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.todo-input {
+  margin-bottom: 10px;
+}
+.todo-item {
+  margin-right: 10px;
+}
+
+.button {
+  margin-right: 5px;
+}
+.filter-buttons {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.filter-buttons button {
+  margin-right: 5px;
+}
+
